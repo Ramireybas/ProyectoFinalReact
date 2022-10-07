@@ -1,0 +1,14 @@
+.App {
+
+    text-align: center;
+  }
+ 
+  .card{
+    height: 350px; ;
+   
+    object-fit: contain;
+  
+  }
+  .col-card{
+  width: 21rem;
+  }
